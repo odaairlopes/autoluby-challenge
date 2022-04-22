@@ -9,7 +9,7 @@ Tecte técnico da Luby Software para a criação de um sistema de gerenciamento 
 Primeiramente, abra o terminal e clone o repositório:
 
 ```sh
-
+git clone https://github.com/odaairlopes/autoluby-challenge.git
 ```
 
 Em seguida, rode algum dos seguintes comandos, para instalar as dependências:
